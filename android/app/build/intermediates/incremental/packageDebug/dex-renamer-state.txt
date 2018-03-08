@@ -1,0 +1,4 @@
+#Thu Mar 08 14:32:46 WIB 2018
+base.0=/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

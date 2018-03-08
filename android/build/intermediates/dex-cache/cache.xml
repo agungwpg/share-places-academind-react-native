@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_1e91f3deb63118cd1ad726253b66b325bf266a99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.4_5370355c4cc0b27aa78050668101143d083d9015.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.4_b4206dc81b71595e8bedf18bdc26a37c650a1d42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_d5f1c089ea3e52eeb2fbc6911f913f30b240369c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/xcqtor/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_e14db077cf03acd15fdae99f4a2bb32b2c68ca17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_40e2b2fddd762e2bfdb6b1b2aa974724f1b66107.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_1a10dcee37e353ab26ca755d4d2eba19c49671ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/xcqtor/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_8eb363c274fe5afd53b943ce5330b4e8d6e37687.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_63c10b62abdacb1259c761df980eec5040afdca6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/xcqtor/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_e82b7c5764e457e163547761029c7c987a101ac1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_88bdd90f7ff44268ba7d8377e535b8cf2acf1129.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/xcqtor/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_9994f51516bf353b19dd8243c318fc85e60d0ac3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/xcqtor/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_440c4ce79fdd56010c0ecd4557f2221667b91984.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_182c6deccf195bc6c21f8003893d96d56b9dbf14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_1fc4e18e1409f75974b2534c8c0d140092c6d974.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.2.4_5f48b6593ebcc832a6c346bc297634504f00a7d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/xcqtor/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_1cf93b6144e89337123b0b83ee8b0396a61a1c8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_eec66fd3f2efa040929dd26777f7d621d5119bdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/xcqtor/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_739dc87c887ba8f466e27e4f4b5273d4c5b73a47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_6627477bcacddb68fca73c80f59922dac9ab37dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_58f2a7de5cf1eb758cf8bd59a35c62f41ece4280.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/xcqtor/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_1650d38288b213c55b30031ce1bafbf2066d5995.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_09da4a68eae5d3511c4f1e57bbfcf3fd6cf9a069.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.4_acf211a2d8a3691cb72d19a52c2862bcce61528c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/exploded-aar/shareplaces/react-native-maps/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aeaef567bc0922238a7193350b2017689ad82851">
+        <dex dex="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/pre-dexed/debug/shareplaces-react-native-maps-unspecified_a62ba004eb40ca31542dec3b2d40818162f17280.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="/home/xcqtor/Documents/Projects/ReactNative/share-places/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.52.0_9ce3dcce165f0be5419070d71c19eaafea9a9879.jar" />
+    </item>
+
+</items>
